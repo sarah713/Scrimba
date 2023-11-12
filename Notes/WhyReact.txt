@@ -1,0 +1,18 @@
+Why react?
+
+-> Its composable!
+-> Its declarative! - focuses on what must be done and not how ut must be done.
+
+
+Imperative: Tell each step of creating a component
+ex: 
+
+const h1 = document.createElement("h1")
+h1.textContent = "This is an imperative way to program"
+h1.className = "header"
+document.getElementById("root").append(h1)
+
+
+You only need two dependencies to eun basic react! 
+1.React
+2.ReactDOM
